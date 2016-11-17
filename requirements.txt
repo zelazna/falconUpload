@@ -1,6 +1,6 @@
 falcon==1.1
 gunicorn==19.6.0
 httpie==0.9.6
-pytest==2.9.1
+pytest==3.0.4
 ipython==5.1.0
 

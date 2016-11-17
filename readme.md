@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/zelazna/falconUpload.svg?branch=master)](https://travis-ci.org/zelazna/falconUpload)
 ## Upload des Images
 
 Avec le module http de python
